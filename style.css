@@ -1,0 +1,29 @@
+*{
+    font-family: Arial, Helvetica, sans-serif;
+
+}
+#logo {
+    height: 50px;
+    display: flex;
+    color: white;
+    justify-content: flex-start;
+    background-color: #24292f;;
+    font-size: small;
+    border: 1px solid black;
+}
+#background {
+    height: 600px;
+    background-image: url("https://raw.githubusercontent.com/Kalvium-Program/amazon-clone-boilerplate/c5b081f188169ee30ea9ff62a18ae7f4a0391ae4/assets/background%20picture.png");
+    background-size: cover;  
+}
+#navfeatures {
+    color: white;
+    height: 40pxpx;
+    background-color: #2b3542;
+    margin-right: 5px;
+    text-size-adjust: 15px;
+}
+#img {
+    background-color: white;
+    color: black;
+}
